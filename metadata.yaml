@@ -1,5 +1,8 @@
 _repo: The-Gods-of-Pegana_8395
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dunsany, Lord
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2685
     wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8395#The-Gods-of-Pegana
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
